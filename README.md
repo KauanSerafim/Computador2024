@@ -6,7 +6,7 @@ Olá!
 
 Comecei a estudar desenvolvimento web front-end há 3 semanas e resolvi colocar em prática os meus conhecimentos.
 
-Pensando em futura manutenções, padronizei os nomes das classes para que ficassem em comformidade com o contéudo.
+Pensando em futuras manutenções, padronizei os nomes das classes para que ficassem em comformidade com o contéudo.
 
 Usei o princípio de desenvolvimento de software **DRY** (don't repeat yourself).
 
