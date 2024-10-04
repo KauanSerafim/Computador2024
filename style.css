@@ -75,7 +75,7 @@ p > a {
   font-size: 1.2rem;
 }
 .intro-content {
-  height: 100vh;
+  height: 87vh;
 }
 @media screen and (max-width: 600px){
   img {
@@ -99,7 +99,7 @@ p > a {
     width: 200px
   }
   .intro-content {
-    height: 90vh;
+    height: 80vh;
   }
   header {
     padding: 1em;
