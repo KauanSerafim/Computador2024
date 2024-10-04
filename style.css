@@ -75,7 +75,7 @@ p > a {
   font-size: 1.2rem;
 }
 .intro-content {
-  height: 87vh;
+  height: 83vh;
 }
 @media screen and (max-width: 600px){
   img {
