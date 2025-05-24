@@ -10,10 +10,4 @@ Pensando em futuras manutenções, padronizei os nomes das classes para que fica
 
 Usei o princípio de desenvolvimento de software **DRY** (don't repeat yourself).
 
-Esse é o meu primeiro site estático criado com **HTML** + **CSS**. 
-
-***Venha se conectar comigo, acesse o meu Linkedin!!!***
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauanserafim)
+Esse é o meu primeiro site estático criado com **HTML** + **CSS**.
